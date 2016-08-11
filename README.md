@@ -1,5 +1,6 @@
 # smart-tmux-bashrc
-For the better tmux work flow on all environments !!.
+> For a better tmux work flow on all environments !!.
+
 i have created a script that make default terminal to collaborate with tmux. With this script installed, the following things will happen when you open your terminal window.
 
 * it will create new tmux session automatically.
